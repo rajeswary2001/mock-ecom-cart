@@ -15,18 +15,16 @@ Users can browse products, add them to a cart, and complete a simple checkout.
 
 ## Project Structure
 
-/mock-ecom-cart
-│
-├── /frontend # React app (UI)
-│ ├── src/pages # Home, Products, Cart, Checkout
-│ ├── src/App.js
-│ └── etc. req files
-│
-├── /backend # Node.js Express API
-│ ├── server.js
-│ └── package.json
-│
-└── README.md # Project documentation
+- mock-ecom-cart
+  - frontend          # React app (UI)
+    - src
+      - pages         # Home, Products, Cart, Checkout components
+      - App.js
+      - ...other files
+  - backend           # Node.js Express API
+    - server.js
+    - package.json
+  - README.md         # Project documentation
 
 
 ## Setup Instructions
@@ -53,6 +51,10 @@ npm start
 Frontend runs on http://localhost:3000
 
 ```
+
+### Demo 
+
+![Video Link] (https://drive.google.com/file/d/1ws2bVonLQffXz93xcMG3bedID6xPPjc6/view?usp=drive_link)
 
 ### 🏠 Home Page
 ![Home Page](./screenshots/homepage.png)
