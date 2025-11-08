@@ -55,7 +55,7 @@ Frontend runs on http://localhost:3000
 ```
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/homepage.png)
 
 ### 🛒 Products Page
 ![Products Page](./screenshots/products.png)
@@ -63,8 +63,11 @@ Frontend runs on http://localhost:3000
 ### 🧾 Cart Page
 ![Cart Page](./screenshots/cart.png)
 
-### ✅ Checkout Page
-![Checkout Page](./screenshots/checkout.png)
+### ✅ Checkout Page (Before Checkout)
+![Checkout Page](./screenshots/before_checkout.png)
+
+### ✅ Checkout Page (After Checkout)
+![Checkout Page](./screenshots/after_checkout.png)
 
 
 
